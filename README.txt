@@ -9,4 +9,4 @@ into the subfolder /src/f1tenth_gym_ros-master/ of your catkin workspace.
 3. Start a docker container
 
 4. In a different terminal, catkin_make, source devel/setup.bash, and run:
-    $roslaunch f1tenth_gym_ros 'lu_kinetic_version_3'.launch
+    $roslaunch f1tenth_gym_ros lu_kinetic_version_3.launch
