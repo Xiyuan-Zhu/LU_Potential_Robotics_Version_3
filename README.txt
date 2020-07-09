@@ -6,7 +6,7 @@ into the subfolder /src/f1tenth_gym_ros-master/scripts of your catkin workspace.
 
 2. Make Lehigh_Ver_3.py an executable
 
-3. Start a docker container
+3. Build and start a docker container
 
 4. In a different terminal, catkin_make, source devel/setup.bash, and run:
     $roslaunch f1tenth_gym_ros lu_kinetic_version_3.launch
