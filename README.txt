@@ -4,7 +4,7 @@ This README is designed in a way that assumes that the host has installed Docker
 1. Git clone the LU_Potential_Robotics_version_3 package from https://github.com/Lu-Potential/LU_Potential_Robotics.git 
 into the subfolder /src/f1tenth_gym_ros-master/scripts of your catkin workspace.
 
-2. Make .py an executable
+2. Make Lehigh_Ver_3.py an executable
 
 3. Start a docker container
 
